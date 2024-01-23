@@ -1,5 +1,8 @@
 # GNN_AIST_Visualize
 Graph Visualization of BC Tx  
+
+The version of the notebook server is: 6.5.2  
+The server is running on this version of Python:  
 Python 3.10.9 | packaged by Anaconda, Inc. | (main, Mar  1 2023, 18:18:15) [MSC v.1916 64 bit (AMD64)] on win32  
 
 ## Pytorch geometricによる可視化  
